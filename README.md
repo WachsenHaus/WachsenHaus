@@ -6,7 +6,7 @@
 
 ✔흥미를 가지고있는 것  
 ✔ Next.js  
-✔ swr
+✔ swr  
 ✔ TDD  
 ✔ CI/CD  
 redux  
