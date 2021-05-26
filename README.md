@@ -1,13 +1,5 @@
 ### 👋
 
-📫 Main : Javascript, TypeScript, React, HTML, CSS  
+📫 Main : Javascript, TypeScript, React, HTML, CSS ,Redux, Styled Component
 ✨ Sub : Docker, Cloud  
-🐔 ETC. : Java, Oracle, C#, H/W F/W  
-
-✔흥미를 가지고있는 것  
-✔ Next.js  
-✔ swr  
-✔ TDD  
-✔ CI/CD  
-redux  
-Emotion  
+🐔 ETC. : Java, Oracle, C#, H/W, F/W  
